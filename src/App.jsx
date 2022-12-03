@@ -22,7 +22,7 @@ function App(props) {
 							Настройки
 						</NavLink>
 						<NavLink className="nav-link" to="friends">
-							Мои друзья
+							Друзья
 						</NavLink>
 					</div>
 				</div>
